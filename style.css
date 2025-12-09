@@ -1,1 +1,15 @@
-
+body {
+  color: red;
+}
+.vamp {
+  height: 300px;
+  width: auto;
+}
+.wolf {
+  height: 300px;
+  width: auto;
+}
+.BOO {
+  height: 300px;
+  width: auto;
+}
