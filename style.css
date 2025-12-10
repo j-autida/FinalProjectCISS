@@ -1,6 +1,9 @@
 body {
   color: red;
 }
+.warn {
+  color:red;
+}
 .vamp {
   height: 300px;
   width: auto;
