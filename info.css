@@ -1,1 +1,12 @@
-
+html {
+  background-color: black;
+}
+body {
+  color: white;
+}
+.weak {
+  color: red;
+}
+.type {
+  color: green;
+}
